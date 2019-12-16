@@ -1,9 +1,9 @@
-DAY 3
+DAY 2
 Week 9 - Comp Sci with Javascript
+-------------------------
 
----
-
-## Algorithms
+Data Types and Structures
+-------------------------
 
 [Algorithm Video - Give this one a chance. It’s not bad at all.](https://www.youtube.com/watch?v=rL8X2mlNHPM)
 
@@ -121,18 +121,18 @@ Lets get to it:
 ---
 
 ## Assignment
-1. (Easy) - Prime Number Test for any integer!
+**1. (Easy) - Prime Number Test for any integer!**
 
 * Also do the first “n” primes - Write your Big O for both!
 * We will re-visit this next week
 
-2. (Medium) - Integer to String
+**2. (Medium) - Integer to String**
 
-* Given any positive OR negative integive, returns it as a String
+* Given any positive OR negative integer, returns it as a String
 * NO BUILT-INs
 * And obviously no JS type inferencing magic.
 
-3. (“Hard”) - GCD - Greatest Common Divisor, can be Euclid’s Algorithm
+**3. (“Hard”) - GCD - Greatest Common Divisor, can be Euclid’s Algorithm**
 
 * Given two integers, a and b, find the largest integer that divides them both (GCD).
 * Euclid’s algorithm is well-known, but don’t copy - your own detriment!
